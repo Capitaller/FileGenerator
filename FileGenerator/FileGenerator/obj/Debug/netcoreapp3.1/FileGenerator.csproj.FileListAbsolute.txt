@@ -1,0 +1,13 @@
+C:\Users\Антон\source\repos\FileGenerator\FileGenerator\bin\Debug\netcoreapp3.1\FileGenerator.exe
+C:\Users\Антон\source\repos\FileGenerator\FileGenerator\bin\Debug\netcoreapp3.1\FileGenerator.deps.json
+C:\Users\Антон\source\repos\FileGenerator\FileGenerator\bin\Debug\netcoreapp3.1\FileGenerator.runtimeconfig.json
+C:\Users\Антон\source\repos\FileGenerator\FileGenerator\bin\Debug\netcoreapp3.1\FileGenerator.runtimeconfig.dev.json
+C:\Users\Антон\source\repos\FileGenerator\FileGenerator\bin\Debug\netcoreapp3.1\FileGenerator.dll
+C:\Users\Антон\source\repos\FileGenerator\FileGenerator\bin\Debug\netcoreapp3.1\FileGenerator.pdb
+C:\Users\Антон\source\repos\FileGenerator\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.csprojAssemblyReference.cache
+C:\Users\Антон\source\repos\FileGenerator\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.AssemblyInfoInputs.cache
+C:\Users\Антон\source\repos\FileGenerator\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.AssemblyInfo.cs
+C:\Users\Антон\source\repos\FileGenerator\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\FileGenerator\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.dll
+C:\Users\Антон\source\repos\FileGenerator\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.pdb
+C:\Users\Антон\source\repos\FileGenerator\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.genruntimeconfig.cache
